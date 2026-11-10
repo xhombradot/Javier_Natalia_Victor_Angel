@@ -1,6 +1,8 @@
 /**
  *    Programa:   Saludo Victor
+ * 
  *    Autor:      Ryu
+ * 
  *    Liceica:    GPL-v3
  */
 
