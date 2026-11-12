@@ -3,7 +3,7 @@
  * 
  *    Autor:      Ryu
  * 
- *    Liceica:    GPL-v3
+ *    Liceica:    CC BY-NC-ND
  */
 
 public class Victor{
